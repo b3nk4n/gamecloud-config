@@ -1,0 +1,6 @@
+recommendation:
+  game-genre: ARCADE
+  game-title: Pacman
+
+feature-flags:
+  in-memory-storage: false
